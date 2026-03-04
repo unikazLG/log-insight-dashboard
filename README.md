@@ -10,5 +10,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-https://log-insight-dashboard.vercel.app
+https://log-insight-dashboard-dmmr.vercel.app/
 
